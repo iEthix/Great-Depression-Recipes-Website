@@ -1,3 +1,3 @@
 # Recipes Website
 
-A playful recipe website.
+A website detailing recipes used during the great depression.
